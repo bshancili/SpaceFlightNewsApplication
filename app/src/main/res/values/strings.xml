@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spaceflight News</string>
+    <string name="title_home">Home</string>
+    <string name="title_article">Article</string>
+    <string name="title_bookmark">Bookmarks</string>
+    <string name="article_image_desc">Image of the article</string>
+    <string name="empty_bookmark">You haven\'t bookmarked any article yet</string>
+</resources>
